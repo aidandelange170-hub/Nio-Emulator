@@ -29,9 +29,24 @@ make install
 
 ### Running the Emulator
 
+The Nio Emulator comes with a pre-built executable file that quickly opens the app when run:
+
 ```bash
 ./nio_emulator
 ```
+
+Or use the convenient run script:
+
+```bash
+./run_nio.sh
+```
+
+This executable provides all the high-performance features:
+- Fast initialization with instant startup
+- Zero lag experience powered by C++ optimization
+- Smooth gaming performance across all titles
+- Fan activation feature (press 'f' when prompted to activate your PC cooling)
+- All the benefits of C++ technology for lag elimination
 
 ### Why Choose Nio?
 
