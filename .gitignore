@@ -1,0 +1,22 @@
+```
+# Compiled and build artifacts
+*.o
+*.obj
+*.out
+# Executables
+nio_emulator
+# Build directories
+build/
+dist/
+# Dependencies
+node_modules/
+venv/
+.venv/
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+# Editors
+.vscode/
+.idea/
+```
